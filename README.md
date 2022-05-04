@@ -3,7 +3,9 @@
 
 Giảng viên hướng dẫn: ThS. Trần Đắc Tốt
 
-Sinh viên thực hiện: Lê Thành Trung - MSSV: 2033180129
+Sinh viên thực hiện: 
++ Lê Thành Trung - MSSV: 2033180129
++ Thái Hoàng Cường – MSSV: 2033181005
 
 # Bộ công cụ BlueBotnet
 Link: https://github.com/JReverse/BlueBotnet

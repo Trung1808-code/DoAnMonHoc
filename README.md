@@ -1,4 +1,4 @@
-# DoAnMonHoc
+# Đồ án môn học
 Đề tài: Nghiên cứu và phát triển thử nghiệm DDOS
 
 Sinh viên thực hiện: Lê Thành Trung - MSSV: 2033180129

@@ -1,0 +1,18 @@
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\Blue Botnet Bot Builder.exe.config
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\Blue Botnet Bot Builder.exe
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\Blue Botnet Bot Builder.pdb
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\mscorlib.dll
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\normidna.nlp
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\normnfc.nlp
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\normnfd.nlp
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\normnfkc.nlp
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\normnfkd.nlp
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.csprojResolveAssemblyReference.cache
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue_Botnet_Bot_Builder.Builder.resources
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue_Botnet_Bot_Builder.Properties.Resources.resources
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.csproj.GenerateResource.Cache
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.exe
+D:\Đồ Án\BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.pdb
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\bin\Debug\Blue Botnet Bot Builder.exe.config
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.exe
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Blue Botnet Bot Builder\Blue Botnet Bot Builder\obj\Debug\Blue Botnet Bot Builder.pdb

@@ -1,0 +1,15 @@
+D:\Đồ Án\BlueBotnet-master\Stub\Stub\bin\Debug\Stub.exe.config
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\Stub.exe.config
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\Stub.exe
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\mscorlib.dll
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\normidna.nlp
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\normnfc.nlp
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\normnfd.nlp
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\normnfkc.nlp
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\bin\Debug\normnfkd.nlp
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.csprojResolveAssemblyReference.cache
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.a.resources
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.Properties.Resources.resources
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.csproj.GenerateResource.Cache
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.exe
+D:\Đồ Án\45_TranDacTot\Bộ công cụ BlueBotnet-master\Stub\Stub\obj\Debug\Stub.pdb
